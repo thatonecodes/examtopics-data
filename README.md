@@ -22,7 +22,7 @@ This repository hosts **easily accessible cached data** from the [ExamTopics](ht
 
 ## 🛠 Parsing Tool
 
-I also built a Go CLI tool called [`examatopics-downloader`](https://github.com/thatonecodes/examtopics-downloader) that **parses this JSON** and provides a terminal-based interface for:
+I also built a Go CLI tool called [`examtopics-downloader`](https://github.com/thatonecodes/examtopics-downloader) that **parses this JSON** and provides a terminal-based interface for:
 
 - Viewing questions
 - Filtering by tags or keywords
